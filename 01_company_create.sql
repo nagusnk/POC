@@ -1,0 +1,2 @@
+CREATE TABLE NAGENDRA.COMPANY( ID number NOT NULL, Name varchar(50) NOT NULL);
+
